@@ -1,0 +1,2 @@
+# Telecom
+Telecom отток клиентов
